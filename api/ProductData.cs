@@ -29,7 +29,7 @@ public interface IProductData
             {
                 Id = 20,
                 Name = "Sliced bread",
-                Description = "Loaf of fresh sliced wheat bread",
+                Description = "Loaf of fresh sliced rye bread",
                 Quantity = 1
             },
             new Product
